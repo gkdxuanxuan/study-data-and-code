@@ -1,0 +1,635 @@
+OTU ID,Kingdom,Phylum,Class,Order,Family,Genus,Species
+ASV3,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Peridiniales, f__Peridiniaceae, g__Peridinium, s__Peridinium gatunense
+ASV6,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Gonyaulacales, f__Ceratiaceae, g__Ceratium, s__Ceratium furcoides
+ASV9,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Peridiniales, f__Heterocapsaceae, g__Heterocapsa, s__Heterocapsa pygmaea
+ASV10,d__Eukaryota, p__Chrysophyta, c__Chrysophyceae, o__Chromulinales, f__Chromulinaceae, g__Ochromonas, s__Ochromonas sp. LO128-162
+ASV11,d__Eukaryota, p__Chlorophyta, c__Chlorophyceae, o__Chlamydomonadales, f__Volvocaceae, g__Volvox, s__Volvox aureus
+ASV16,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Suessiales, f__Biecheleriaceae, g__Biecheleria, s__Biecheleria brevisulcata
+ASV17,d__Eukaryota, p__Chrysophyta, c__Chrysophyceae, o__Chromulinales, f__Dinobryaceae, g__Dinobryon, s__Dinobryon sociale
+ASV18,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Peridiniales, f__Peridiniaceae, g__Peridinium, s__Peridinium gatunense
+ASV19,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Gymnodiniales, f__Gymnodiniaceae, g__Gyrodinium, s__Gyrodinium cf. gutrula
+ASV24,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Lophodiniales, f__Lophodiniaceae, g__Biecheleriopsis, s__Biecheleriopsis adriatica
+ASV25,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Peridiniales, f__Peridiniaceae, g__Peridinium, s__Peridinium gatunense
+ASV29,d__Eukaryota, p__Chlorophyta, c__Trebouxiophyceae, o__norank, f__norank, g__Picochlorum, s__Picochlorum eukaryotum
+ASV30,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Peridiniales, f__Peridiniaceae, g__Peridinium, s__Peridinium gatunense
+ASV31,d__Eukaryota, p__Haptophyta, c__norank, o__Prymnesiales, f__Chrysochromulinaceae, g__Chrysochromulina, s__Chrysochromulina parva
+ASV34,d__Eukaryota, p__Haptophyta, c__norank, o__Prymnesiales, f__Chrysochromulinaceae, g__Chrysochromulina, s__Chrysochromulina parva
+ASV36,d__Eukaryota, p__Chrysophyta, c__Chrysophyceae, o__Chromulinales, f__Paraphysomonadaceae, g__Paraphysomonas, s__Paraphysomonas acuminata
+ASV37,d__Eukaryota, p__Eustigmatophyta, c__Eustigmatophyceae, o__Goniochloridales, f__Goniochloridaceae, g__Vacuoliviride, s__Vacuoliviride crystalliferum
+ASV40,d__Eukaryota, p__Bacillariophyta, c__Coscinodiscophyceae, o__Stephanodiscales, f__Stephanodiscaceae, g__Cyclotella, s__Cyclotella cf. comensis
+ASV41,d__Eukaryota, p__Chlorophyta, c__Chlorophyceae, o__Sphaeropleales, f__Pseudomuriellaceae, g__Pseudomuriella, s__Pseudomuriella sp. Itas 9/21 14-1d
+ASV42,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Gonyaulacales, f__Ceratiaceae, g__Ceratium, s__Ceratium furcoides
+ASV49,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Gonyaulacales, f__Amphidomataceae, g__Azadinium, s__Azadinium cf. spinosum
+ASV51,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Peridiniales, f__Peridiniopsidaceae, g__Peridiniopsis, s__Peridiniopsis polonicum
+ASV52,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Peridiniales, f__Peridiniaceae, g__Scrippsiella, s__Scrippsiella masanensis
+ASV53,d__Eukaryota, p__Chlorophyta, c__Trebouxiophyceae, o__Chlorellales, f__Chlorellaceae, g__Meyerella, s__Meyerella planktonica
+ASV54,d__Eukaryota, p__Chlorophyta, c__Chlorophyceae, o__Sphaeropleales, f__Sphaeropleaceae, g__Tetraedron, s__Tetraedron sp. NIES-4278
+ASV56,d__Eukaryota, p__Chlorophyta, c__Chlorophyceae, o__Sphaeropleales, f__Scenedesmaceae, g__Desmodesmus, s__Desmodesmus sp. GM4i
+ASV57,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Peridiniales, f__Peridiniaceae, g__Peridinium, s__Peridinium gatunense
+ASV58,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Peridiniales, f__Peridiniaceae, g__Peridinium, s__Peridinium gatunense
+ASV64,d__Eukaryota, p__Chlorophyta, c__Trebouxiophyceae, o__Chlorellales, f__Chlorellaceae, g__Chlorella, s__Chlorella sp.
+ASV65,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Peridiniales, f__Peridiniaceae, g__Peridinium, s__Peridinium gatunense
+ASV67,d__Eukaryota, p__Eustigmatophyta, c__Eustigmatophyceae, o__Goniochloridales, f__Goniochloridaceae, g__Trachydiscus, s__Trachydiscus sp.
+ASV69,d__Eukaryota, p__Rhodophyta, c__Bangiophyceae, o__Bangiales, f__Bangiaceae, g__Pyropia, s__Pyropia sp. 2 LEY-2017
+ASV70,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Prorocentrales, f__Prorocentraceae, g__Prorocentrum, s__Prorocentrum triestinum
+ASV71,d__Eukaryota, p__Cryptophyta, c__Cryptophyceae, o__Kathablepharidacea, f__Katablepharidaceae, g__Hatena, s__Hatena arenicola
+ASV74,d__Eukaryota, p__Cryptophyta, c__Cryptophyceae, o__Kathablepharidacea, f__Katablepharidaceae, g__Hatena, s__Hatena arenicola
+ASV75,d__Eukaryota, p__Bacillariophyta, c__Coscinodiscophyceae, o__Stephanodiscales, f__Stephanodiscaceae, g__Cyclotella, s__Cyclotella cf. ocellata
+ASV76,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Peridiniales, f__Peridiniaceae, g__Peridinium, s__Peridinium gatunense
+ASV77,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Suessiales, f__Symbiodiniaceae, g__Symbiodinium, s__uncultured Symbiodinium
+ASV79,d__Eukaryota, p__Chlorophyta, c__Trebouxiophyceae, o__norank, f__norank, g__Choricystis, s__Choricystis sp. NIES-4292
+ASV81,d__Eukaryota, p__Chlorophyta, c__Chlorophyceae, o__Sphaeropleales, f__Neochloridaceae, g__Neochloris, s__Neochloris terrestris
+ASV82,d__Eukaryota, p__Chlorophyta, c__Chlorophyceae, o__Chlamydomonadales, f__Chlamydomonadaceae, g__Carteria, s__Carteria sp. NIES-3902
+ASV84,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Peridiniales, f__Peridiniaceae, g__Peridinium, s__Peridinium gatunense
+ASV85,d__Eukaryota, p__Chrysophyta, c__Chrysophyceae, o__Chromulinales, f__Chromulinaceae, g__Ochromonas, s__Ochromonas tuberculata
+ASV87,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Peridiniales, f__Peridiniaceae, g__Peridinium, s__Peridinium gatunense
+ASV89,d__Eukaryota, p__Haptophyta, c__norank, o__Prymnesiales, f__Chrysochromulinaceae, g__Chrysochromulina, s__Chrysochromulina parva
+ASV90,d__Eukaryota, p__Chrysophyta, c__Chrysophyceae, o__Chromulinales, f__Paraphysomonadaceae, g__Paraphysomonas, s__Paraphysomonas acuminata
+ASV93,d__Eukaryota, p__Chlorophyta, c__Chlorophyceae, o__Sphaeropleales, f__Selenastraceae, g__Monoraphidium, s__Monoraphidium convolutum
+ASV95,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Prorocentrales, f__Prorocentraceae, g__Prorocentrum, s__Prorocentrum cf. balticum
+ASV97,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Peridiniales, f__Peridiniaceae, g__Scrippsiella, s__Scrippsiella masanensis
+ASV105,d__Eukaryota, p__Bacillariophyta, c__Coscinodiscophyceae, o__Stephanodiscales, f__Stephanodiscaceae, g__Stephanodiscus, s__Stephanodiscus hantzschii
+ASV112,d__Eukaryota, p__Bacillariophyta, c__Coscinodiscophyceae, o__Stephanodiscales, f__Stephanodiscaceae, g__Cyclostephanos, s__Cyclostephanos dubius
+ASV113,d__Eukaryota, p__Chlorophyta, c__Chlorophyceae, o__Chlamydomonadales, f__Chlamydomonadaceae, g__Carteria, s__Carteria sp. NIES-3902
+ASV116,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Peridiniales, f__Heterocapsaceae, g__Heterocapsa, s__Heterocapsa pygmaea
+ASV118,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Dinophysales, f__Dinophysaceae, g__Sinophysis, s__Sinophysis stenosoma
+ASV120,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Suessiales, f__Symbiodiniaceae, g__Symbiodinium, s__uncultured Symbiodinium
+ASV121,d__Eukaryota, p__Chlorophyta, c__Chlorophyceae, o__Chlamydomonadales, f__Volvocaceae, g__Volvox, s__Volvox aureus
+ASV124,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Prorocentrales, f__Prorocentraceae, g__Prorocentrum, s__Prorocentrum koreanum
+ASV127,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Gonyaulacales, f__Amphidomataceae, g__Azadinium, s__Azadinium cf. spinosum
+ASV129,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Peridiniales, f__Peridiniaceae, g__Peridinium, s__Peridinium gatunense
+ASV133,d__Eukaryota, p__Cryptophyta, c__Cryptophyceae, o__Pyrenomonadales, f__Pyrenomonadaceae, g__Rhodomonas, s__Rhodomonas minuta
+ASV135,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Gonyaulacales, f__Ceratiaceae, g__Ceratium, s__Ceratium furcoides
+ASV136,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Suessiales, f__Symbiodiniaceae, g__Symbiodinium, s__uncultured Symbiodinium
+ASV137,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Peridiniales, f__Peridiniaceae, g__Peridinium, s__Peridinium gatunense
+ASV140,d__Eukaryota, p__Chlorophyta, c__Chlorophyceae, o__Sphaeropleales, f__Scenedesmaceae, g__Neodesmus, s__Neodesmus sp. LIPBS
+ASV141,d__Eukaryota, p__Chlorophyta, c__Chlorophyceae, o__Sphaeropleales, f__Mychonastaceae, g__Mychonastes, s__Mychonastes sp. YHL/S/PLANKTON10
+ASV143,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Thoracosphaerales, f__Thoracosphaeraceae, g__Stoeckeria, s__Stoeckeria sp. SSSC09
+ASV144,d__Eukaryota, p__Chrysophyta, c__Chrysophyceae, o__Chromulinales, f__Chromulinaceae, g__Ochromonas, s__uncultured Ochromonas
+ASV147,d__Eukaryota, p__Chlorophyta, c__Trebouxiophyceae, o__norank, f__norank, g__Choricystis, s__Choricystis parasitica
+ASV150,d__Eukaryota, p__Chrysophyta, c__Chrysophyceae, o__Chromulinales, f__Chromulinaceae, g__Cyclonexis, s__Cyclonexis annularis
+ASV153,d__Eukaryota, p__Haptophyta, c__norank, o__Prymnesiales, f__Chrysochromulinaceae, g__Chrysochromulina, s__Chrysochromulina parva
+ASV156,d__Eukaryota, p__Chlorophyta, c__Trebouxiophyceae, o__Chlorellales, f__Chlorellaceae, g__Chlorella, s__Chlorella vulgaris
+ASV159,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Peridiniales, f__Peridiniaceae, g__Peridinium, s__Peridinium gatunense
+ASV161,d__Eukaryota, p__Xanthophyta, c__Xanthophyceae, o__Mischococcales, f__Pleurochloridaceae, g__Monodus, s__Monodus sp. 1 ME-2013
+ASV164,d__Eukaryota, p__Chlorophyta, c__Trebouxiophyceae, o__Chlorellales, f__Chlorellaceae, g__Chlorella, s__Chlorella sorokiniana
+ASV167,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Peridiniales, f__Peridiniaceae, g__Peridinium, s__Peridinium parvulum
+ASV172,d__Eukaryota, p__Eustigmatophyta, c__Eustigmatophyceae, o__Goniochloridales, f__Goniochloridaceae, g__Vacuoliviride, s__Vacuoliviride crystalliferum
+ASV173,d__Eukaryota, p__Chrysophyta, c__Chrysophyceae, o__Chromulinales, f__Paraphysomonadaceae, g__Paraphysomonas, s__Paraphysomonas sp.
+ASV179,d__Eukaryota, p__Chrysophyta, c__Chrysophyceae, o__Chromulinales, f__Chromulinaceae, g__Ochromonas, s__Ochromonas sp. LO128-162
+ASV181,d__Eukaryota, p__Chlorophyta, c__Chlorophyceae, o__Chlamydomonadales, f__norank, g__Adglutina, s__Adglutina synurophila
+ASV182,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Peridiniales, f__Peridiniopsidaceae, g__Peridiniopsis, s__Peridiniopsis polonicum
+ASV186,d__Eukaryota, p__Cryptophyta, c__Cryptophyceae, o__Kathablepharidacea, f__Katablepharidaceae, g__Hatena, s__Hatena arenicola
+ASV187,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Peridiniales, f__Peridiniaceae, g__Scrippsiella, s__Scrippsiella masanensis
+ASV189,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Thoracosphaerales, f__Thoracosphaeraceae, g__Apocalathium, s__Apocalathium aciculiferum
+ASV192,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Lophodiniales, f__Lophodiniaceae, g__Biecheleriopsis, s__Biecheleriopsis adriatica
+ASV199,d__Eukaryota, p__Cryptophyta, c__Cryptophyceae, o__Kathablepharidacea, f__Katablepharidaceae, g__Hatena, s__Hatena arenicola
+ASV201,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Gonyaulacales, f__Ceratiaceae, g__Ceratium, s__Ceratium furcoides
+ASV203,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Gonyaulacales, f__Ceratiaceae, g__Ceratium, s__Ceratium furcoides
+ASV205,d__Eukaryota, p__Cryptophyta, c__Cryptophyceae, o__Cryptomonadales, f__Cryptomonadaceae, g__Cryptomonas, s__uncultured Cryptomonas
+ASV208,d__Eukaryota, p__Cryptophyta, c__Cryptophyceae, o__Cyathomonadacea, f__Goniomonadaceae, g__Goniomonas, s__Goniomonas sp. HFCC157
+ASV209,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Thoracosphaerales, f__Thoracosphaeraceae, g__Stoeckeria, s__Stoeckeria sp. SSSC09
+ASV211,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Peridiniales, f__Peridiniaceae, g__Peridinium, s__Peridinium gatunense
+ASV213,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Peridiniales, f__Heterocapsaceae, g__Heterocapsa, s__Heterocapsa pygmaea
+ASV214,d__Eukaryota, p__Chrysophyta, c__Chrysophyceae, o__Chromulinales, f__Paraphysomonadaceae, g__Paraphysomonas, s__Paraphysomonas acuminata
+ASV218,d__Eukaryota, p__Chrysophyta, c__Chrysophyceae, o__Chromulinales, f__Paraphysomonadaceae, g__Paraphysomonas, s__Paraphysomonas foraminifera
+ASV224,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Prorocentrales, f__Prorocentraceae, g__Prorocentrum, s__Prorocentrum koreanum
+ASV225,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Peridiniales, f__Peridiniaceae, g__Scrippsiella, s__Scrippsiella masanensis
+ASV230,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Suessiales, f__Symbiodiniaceae, g__Symbiodinium, s__uncultured Symbiodinium
+ASV234,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Peridiniales, f__Heterocapsaceae, g__Heterocapsa, s__Heterocapsa pygmaea
+ASV235,d__Eukaryota, p__Chrysophyta, c__Chrysophyceae, o__Chromulinales, f__Paraphysomonadaceae, g__Paraphysomonas, s__Paraphysomonas sp. WA32KAG
+ASV237,d__Eukaryota, p__Chlorophyta, c__Synurophyceae, o__Synurales, f__Synuraceae, g__Chrysosphaerella, s__Chrysosphaerella brevispina
+ASV238,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Peridiniales, f__Peridiniaceae, g__Peridinium, s__Peridinium gatunense
+ASV240,d__Eukaryota, p__Eustigmatophyta, c__Eustigmatophyceae, o__Eustigmatales, f__Pseudocharaciopsidaceae, g__Pseudocharaciopsis, s__Pseudocharaciopsis ovalis
+ASV243,d__Eukaryota, p__Chlorophyta, c__Trebouxiophyceae, o__norank, f__norank, g__Picochlorum, s__Picochlorum eukaryotum
+ASV245,d__Eukaryota, p__Chrysophyta, c__Chrysophyceae, o__Chromulinales, f__Chromulinaceae, g__Ochromonas, s__Ochromonas tuberculata
+ASV246,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Peridiniales, f__Peridiniaceae, g__Scrippsiella, s__Scrippsiella masanensis
+ASV248,d__Eukaryota, p__Chlorophyta, c__Trebouxiophyceae, o__Watanabeales, f__norank, g__Chloroidium, s__Chloroidium saccharophilum
+ASV250,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Peridiniales, f__Peridiniaceae, g__Pernambugia, s__Pernambugia tuberosa
+ASV253,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Dinophysales, f__Dinophysaceae, g__Sinophysis, s__Sinophysis stenosoma
+ASV256,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Peridiniales, f__Peridiniopsidaceae, g__Peridiniopsis, s__Peridiniopsis polonicum
+ASV264,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Peridiniales, f__Peridiniaceae, g__Peridinium, s__Peridinium gatunense
+ASV266,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Peridiniales, f__Peridiniaceae, g__Peridinium, s__Peridinium gatunense
+ASV267,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Thoracosphaerales, f__Thoracosphaeraceae, g__Stoeckeria, s__Stoeckeria sp. SSSC09
+ASV270,d__Eukaryota, p__Bacillariophyta, c__Mediophyceae, o__Cymatosirales, f__Cymatosiraceae, g__Leyanella, s__Leyanella arenaria
+ASV272,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Suessiales, f__Biecheleriaceae, g__Biecheleria, s__Biecheleria brevisulcata
+ASV275,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Peridiniales, f__Peridiniaceae, g__Peridinium, s__Peridinium gatunense
+ASV278,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Peridiniales, f__Peridiniaceae, g__Peridinium, s__Peridinium gatunense
+ASV280,d__Eukaryota, p__Dictyochophyta, c__Dictyochophyceae, o__Pedinellales, f__norank, g__Pseudopedinella, s__Pseudopedinella sp. HSY-2011
+ASV281,d__Eukaryota, p__Cryptophyta, c__Cryptophyceae, o__Kathablepharidacea, f__Katablepharidaceae, g__Hatena, s__Hatena arenicola
+ASV285,d__Eukaryota, p__Chlorophyta, c__Chlorophyceae, o__Chlamydomonadales, f__Volvocaceae, g__Volvox, s__Volvox aureus
+ASV286,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Prorocentrales, f__Prorocentraceae, g__Prorocentrum, s__Prorocentrum cf. balticum
+ASV287,d__Eukaryota, p__Chrysophyta, c__Chrysophyceae, o__Chromulinales, f__Chromulinaceae, g__Ochromonas, s__Ochromonas sp. LO128-162
+ASV288,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Peridiniales, f__Peridiniaceae, g__Peridinium, s__Peridinium gatunense
+ASV291,d__Eukaryota, p__Rhodophyta, c__Bangiophyceae, o__Bangiales, f__Bangiaceae, g__Pyropia, s__Pyropia sp. 2 LEY-2017
+ASV294,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Peridiniales, f__Kryptoperidiniaceae, g__Unruhdinium, s__Unruhdinium penardii
+ASV296,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Peridiniales, f__Peridiniaceae, g__Peridinium, s__Peridinium gatunense
+ASV299,d__Eukaryota, p__Chlorophyta, c__Trebouxiophyceae, o__Chlorellales, f__Oocystaceae, g__Oocystella, s__Oocystella heteromucosa
+ASV302,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Peridiniales, f__Peridiniaceae, g__Peridinium, s__Peridinium gatunense
+ASV305,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Peridiniales, f__Peridiniaceae, g__Peridinium, s__Peridinium gatunense
+ASV307,d__Eukaryota, p__Chlorophyta, c__Chlorophyceae, o__Sphaeropleales, f__Selenastraceae, g__Monoraphidium, s__Monoraphidium sp. HSJA2
+ASV311,d__Eukaryota, p__Chrysophyta, c__Chrysophyceae, o__Chromulinales, f__Chromulinaceae, g__Ochromonas, s__Ochromonas sp. LO128-162
+ASV312,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Peridiniales, f__Peridiniaceae, g__Peridinium, s__Peridinium gatunense
+ASV315,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Peridiniales, f__Peridiniaceae, g__Peridinium, s__Peridinium gatunense
+ASV318,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Peridiniales, f__Peridiniaceae, g__Peridinium, s__Peridinium gatunense
+ASV321,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Peridiniales, f__Peridiniaceae, g__Peridinium, s__Peridinium gatunense
+ASV326,d__Eukaryota, p__Chlorophyta, c__Chlorophyceae, o__Sphaeropleales, f__Neochloridaceae, g__Neochloris, s__Neochloris terrestris
+ASV332,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Peridiniales, f__Peridiniaceae, g__Peridinium, s__Peridinium gatunense
+ASV335,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Peridiniales, f__Peridiniaceae, g__Peridinium, s__Peridinium gatunense
+ASV336,d__Eukaryota, p__Chrysophyta, c__Chrysophyceae, o__Chromulinales, f__Dinobryaceae, g__Dinobryon, s__Dinobryon sociale
+ASV338,d__Eukaryota, p__Chlorophyta, c__Trebouxiophyceae, o__norank, f__norank, g__Botryococcus, s__Botryococcus braunii
+ASV339,d__Eukaryota, p__Chrysophyta, c__Chrysophyceae, o__Chromulinales, f__Dinobryaceae, g__Dinobryon, s__Dinobryon sociale
+ASV342,d__Eukaryota, p__Chrysophyta, c__Chrysophyceae, o__Chromulinales, f__Chromulinaceae, g__Ochromonas, s__Ochromonas sp. LO128-162
+ASV353,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Peridiniales, f__Peridiniaceae, g__Peridinium, s__Peridinium gatunense
+ASV355,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Gymnodiniales, f__Gymnodiniaceae, g__Gyrodinium, s__Gyrodinium cf. gutrula
+ASV356,d__Eukaryota, p__Chlorophyta, c__Chlorophyceae, o__Sphaeropleales, f__Scenedesmaceae, g__Hariotina, s__Hariotina reticulata
+ASV360,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Peridiniales, f__Peridiniaceae, g__Peridinium, s__Peridinium gatunense
+ASV369,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Prorocentrales, f__Prorocentraceae, g__Prorocentrum, s__Prorocentrum triestinum
+ASV370,d__Eukaryota, p__Chlorophyta, c__Chlorophyceae, o__Chlamydomonadales, f__Volvocaceae, g__Volvox, s__Volvox aureus
+ASV378,d__Eukaryota, p__Chrysophyta, c__Chrysophyceae, o__Chromulinales, f__Paraphysomonadaceae, g__Paraphysomonas, s__Paraphysomonas bandaiensis
+ASV380,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Peridiniales, f__Peridiniaceae, g__Peridinium, s__Peridinium gatunense
+ASV398,d__Eukaryota, p__Chrysophyta, c__Chrysophyceae, o__Chromulinales, f__Chromulinaceae, g__Spumella, s__Spumella sp.
+ASV407,d__Eukaryota, p__Eustigmatophyta, c__Eustigmatophyceae, o__Goniochloridales, f__Goniochloridaceae, g__Vacuoliviride, s__Vacuoliviride crystalliferum
+ASV408,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Peridiniales, f__Peridiniaceae, g__Peridinium, s__Peridinium gatunense
+ASV411,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Suessiales, f__Biecheleriaceae, g__Biecheleria, s__Biecheleria brevisulcata
+ASV412,d__Eukaryota, p__Chlorophyta, c__Chlorophyceae, o__Sphaeropleales, f__Scenedesmaceae, g__Desmodesmus, s__Desmodesmus sp. GM4i
+ASV413,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Gonyaulacales, f__Amphidomataceae, g__Azadinium, s__Azadinium cf. spinosum
+ASV414,d__Eukaryota, p__Chlorophyta, c__Trebouxiophyceae, o__Chlorellales, f__Oocystaceae, g__Ecballocystopsis, s__Ecballocystopsis dichotomus
+ASV422,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Peridiniales, f__Peridiniaceae, g__Peridinium, s__Peridinium gatunense
+ASV423,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Gymnodiniales, f__Gymnodiniaceae, g__Gyrodinium, s__Gyrodinium cf. gutrula
+ASV435,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Peridiniales, f__Peridiniopsidaceae, g__Parvodinium, s__Parvodinium umbonatum
+ASV443,d__Eukaryota, p__Chlorophyta, c__Synurophyceae, o__Synurales, f__Mallomonadaceae, g__Mallomonas, s__Mallomonas mangofera
+ASV448,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Amphidiniales, f__Amphidiniaceae, g__Amphidinium, s__Amphidinium herdmanii
+ASV455,d__Eukaryota, p__Chlorophyta, c__Chlorophyceae, o__Sphaeropleales, f__Scenedesmaceae, g__Coelastrum, s__Coelastrum sp. NIES-4266
+ASV471,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Gymnodiniales, f__Gymnodiniaceae, g__Gyrodinium, s__Gyrodinium helveticum
+ASV476,d__Eukaryota, p__Eustigmatophyta, c__Eustigmatophyceae, o__Goniochloridales, f__Goniochloridaceae, g__Vacuoliviride, s__Vacuoliviride crystalliferum
+ASV487,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Peridiniales, f__Peridiniaceae, g__Peridinium, s__Peridinium gatunense
+ASV489,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Dinophysales, f__Dinophysaceae, g__Sinophysis, s__Sinophysis stenosoma
+ASV490,d__Eukaryota, p__Haptophyta, c__norank, o__Prymnesiales, f__Chrysochromulinaceae, g__Chrysochromulina, s__Chrysochromulina parva
+ASV491,d__Eukaryota, p__Chrysophyta, c__Chrysophyceae, o__Chromulinales, f__Dinobryaceae, g__Dinobryon, s__Dinobryon sociale
+ASV492,d__Eukaryota, p__Chrysophyta, c__Chrysophyceae, o__Chromulinales, f__Chromulinaceae, g__Ochromonas, s__uncultured Ochromonas
+ASV494,d__Eukaryota, p__Chrysophyta, c__Chrysophyceae, o__Chromulinales, f__Dinobryaceae, g__Dinobryon, s__Dinobryon ningwuensis
+ASV496,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Peridiniales, f__Peridiniaceae, g__Peridinium, s__Peridinium gatunense
+ASV501,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Peridiniales, f__Peridiniaceae, g__Peridinium, s__Peridinium gatunense
+ASV515,d__Eukaryota, p__Cryptophyta, c__Cryptophyceae, o__Kathablepharidacea, f__Katablepharidaceae, g__Hatena, s__Hatena arenicola
+ASV518,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Lophodiniales, f__Lophodiniaceae, g__Biecheleriopsis, s__Biecheleriopsis adriatica
+ASV522,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Thoracosphaerales, f__Thoracosphaeraceae, g__Apocalathium, s__Apocalathium aciculiferum
+ASV523,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Suessiales, f__Biecheleriaceae, g__Biecheleria, s__Biecheleria brevisulcata
+ASV525,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Thoracosphaerales, f__Thoracosphaeraceae, g__Apocalathium, s__Apocalathium aciculiferum
+ASV527,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Peridiniales, f__Peridiniaceae, g__Peridinium, s__Peridinium gatunense
+ASV533,d__Eukaryota, p__Chrysophyta, c__Chrysophyceae, o__Chromulinales, f__Chrysoamoebidaceae, g__Chrysamoeba, s__Chrysamoeba mikrokonta
+ASV535,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Peridiniales, f__Peridiniaceae, g__Peridinium, s__Peridinium gatunense
+ASV536,d__Eukaryota, p__Cryptophyta, c__Cryptophyceae, o__Cyathomonadacea, f__Goniomonadaceae, g__Goniomonas, s__Goniomonas sp. HFCC157
+ASV537,d__Eukaryota, p__Chrysophyta, c__Chrysophyceae, o__Chromulinales, f__Paraphysomonadaceae, g__Paraphysomonas, s__Paraphysomonas foraminifera
+ASV538,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Gonyaulacales, f__Ceratiaceae, g__Ceratium, s__Ceratium furcoides
+ASV546,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Suessiales, f__Biecheleriaceae, g__Biecheleria, s__Biecheleria brevisulcata
+ASV547,d__Eukaryota, p__Eustigmatophyta, c__Eustigmatophyceae, o__Goniochloridales, f__Goniochloridaceae, g__Trachydiscus, s__Trachydiscus sp.
+ASV549,d__Eukaryota, p__Chlorophyta, c__Chlorophyceae, o__Sphaeropleales, f__Sphaeropleaceae, g__Tetraedron, s__Tetraedron sp. NIES-4278
+ASV551,d__Eukaryota, p__Haptophyta, c__norank, o__Prymnesiales, f__Chrysochromulinaceae, g__Chrysochromulina, s__Chrysochromulina parva
+ASV553,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Peridiniales, f__Peridiniaceae, g__Peridinium, s__Peridinium gatunense
+ASV554,d__Eukaryota, p__Bacillariophyta, c__Mediophyceae, o__Cymatosirales, f__Cymatosiraceae, g__Extubocellulus, s__Extubocellulus cupola
+ASV555,d__Eukaryota, p__Chlorophyta, c__Trebouxiophyceae, o__Chlorellales, f__Chlorellaceae, g__Chlorella, s__Chlorella sp. NIES-3912
+ASV556,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Peridiniales, f__Peridiniaceae, g__Peridinium, s__Peridinium gatunense
+ASV559,d__Eukaryota, p__Chrysophyta, c__Chrysophyceae, o__Chromulinales, f__Paraphysomonadaceae, g__Paraphysomonas, s__Paraphysomonas segmenta
+ASV560,d__Eukaryota, p__Bacillariophyta, c__Mediophyceae, o__Cymatosirales, f__Cymatosiraceae, g__Extubocellulus, s__Extubocellulus cupola
+ASV562,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Gonyaulacales, f__Amphidomataceae, g__Azadinium, s__Azadinium cf. spinosum
+ASV567,d__Eukaryota, p__Dictyochophyta, c__Dictyochophyceae, o__Pedinellales, f__norank, g__Pseudopedinella, s__Pseudopedinella elastica
+ASV568,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Suessiales, f__Borghiellaceae, g__Baldinia, s__Baldinia anauniensis
+ASV569,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Gymnodiniales, f__Gymnodiniaceae, g__Gymnodinium, s__Gymnodinium sp. LaTo2
+ASV578,d__Eukaryota, p__Chlorophyta, c__Trebouxiophyceae, o__Chlorellales, f__Oocystaceae, g__Oocystidium, s__Oocystidium sp. CCAP 222/49
+ASV585,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Prorocentrales, f__Prorocentraceae, g__Prorocentrum, s__Prorocentrum triestinum
+ASV587,d__Eukaryota, p__Chlorophyta, c__Chlorophyceae, o__Chlamydomonadales, f__Chlamydomonadaceae, g__Carteria, s__Carteria sp. H2
+ASV588,d__Eukaryota, p__Eustigmatophyta, c__Eustigmatophyceae, o__Goniochloridales, f__Goniochloridaceae, g__Vacuoliviride, s__Vacuoliviride crystalliferum
+ASV591,d__Eukaryota, p__Chlorophyta, c__Chlorophyceae, o__Chlamydomonadales, f__Chlamydomonadaceae, g__Carteria, s__Carteria radiosa
+ASV592,d__Eukaryota, p__Chlorophyta, c__Trebouxiophyceae, o__norank, f__norank, g__Picochlorum, s__Picochlorum eukaryotum
+ASV593,d__Eukaryota, p__Chlorophyta, c__Chlorophyceae, o__Sphaeropleales, f__Neochloridaceae, g__Neochloris, s__Neochloris terrestris
+ASV595,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__norank, f__norank, g__Theleodinium, s__Theleodinium calcisporum
+ASV598,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Peridiniales, f__Peridiniopsidaceae, g__Peridiniopsis, s__Peridiniopsis polonicum
+ASV605,d__Eukaryota, p__Bacillariophyta, c__Mediophyceae, o__Cymatosirales, f__Cymatosiraceae, g__Leyanella, s__Leyanella arenaria
+ASV606,d__Eukaryota, p__Bacillariophyta, c__Fragilariophyceae, o__Fragilariales, f__Fragilariaceae, g__Fragilaria, s__Fragilaria sp. DM-MEX012
+ASV608,d__Eukaryota, p__Dictyochophyta, c__Dictyochophyceae, o__Pedinellales, f__norank, g__Pseudopedinella, s__Pseudopedinella elastica
+ASV609,d__Eukaryota, p__Bacillariophyta, c__Coscinodiscophyceae, o__Stephanodiscales, f__Stephanodiscaceae, g__Cyclotella, s__Cyclotella cf. comensis
+ASV610,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Peridiniales, f__Peridiniaceae, g__Scrippsiella, s__Scrippsiella masanensis
+ASV612,d__Eukaryota, p__Chlorophyta, c__Trebouxiophyceae, o__Chlorellales, f__Chlorellaceae, g__Geminella, s__Geminella sp. SAG 20.84
+ASV619,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Peridiniales, f__Peridiniopsidaceae, g__Peridiniopsis, s__Peridiniopsis polonicum
+ASV622,d__Eukaryota, p__Haptophyta, c__norank, o__Prymnesiales, f__Chrysochromulinaceae, g__Chrysochromulina, s__Chrysochromulina parva
+ASV626,d__Eukaryota, p__Bacillariophyta, c__Coscinodiscophyceae, o__Stephanodiscales, f__Stephanodiscaceae, g__Cyclotella, s__Cyclotella cf. ocellata
+ASV627,d__Eukaryota, p__Chrysophyta, c__Chrysophyceae, o__Hydrurales, f__Hydruraceae, g__Hydrurus, s__Hydrurus foetidus
+ASV630,d__Eukaryota, p__Dictyochophyta, c__Dictyochophyceae, o__Pedinellales, f__norank, g__Pteridomonas, s__Pteridomonas sp.
+ASV633,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Peridiniales, f__Peridiniaceae, g__Peridinium, s__Peridinium gatunense
+ASV635,d__Eukaryota, p__Chrysophyta, c__Chrysophyceae, o__Chromulinales, f__Dinobryaceae, g__Dinobryon, s__Dinobryon sociale
+ASV639,d__Eukaryota, p__Chlorophyta, c__Chlorophyceae, o__Sphaeropleales, f__Scenedesmaceae, g__Hariotina, s__Hariotina reticulata
+ASV641,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Peridiniales, f__Peridiniaceae, g__Peridinium, s__Peridinium gatunense
+ASV652,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Peridiniales, f__Peridiniaceae, g__Peridinium, s__Peridinium gatunense
+ASV659,d__Eukaryota, p__Chlorophyta, c__Chlorophyceae, o__Sphaeropleales, f__Scenedesmaceae, g__Desmodesmus, s__Desmodesmus sp. GM4i
+ASV661,d__Eukaryota, p__Cryptophyta, c__Cryptophyceae, o__Cyathomonadacea, f__Goniomonadaceae, g__Goniomonas, s__Goniomonas sp. HFCC157
+ASV667,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Dinophysales, f__Dinophysaceae, g__Sinophysis, s__Sinophysis stenosoma
+ASV668,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Peridiniales, f__Peridiniaceae, g__Peridinium, s__Peridinium gatunense
+ASV669,d__Eukaryota, p__Eustigmatophyta, c__Eustigmatophyceae, o__Goniochloridales, f__Goniochloridaceae, g__Vacuoliviride, s__Vacuoliviride crystalliferum
+ASV673,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Peridiniales, f__Peridiniaceae, g__Scrippsiella, s__Scrippsiella masanensis
+ASV681,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Prorocentrales, f__Prorocentraceae, g__Prorocentrum, s__Prorocentrum triestinum
+ASV682,d__Eukaryota, p__Haptophyta, c__norank, o__Prymnesiales, f__Chrysochromulinaceae, g__Chrysochromulina, s__Chrysochromulina parva
+ASV683,d__Eukaryota, p__Cryptophyta, c__Cryptophyceae, o__Cryptomonadales, f__Cryptomonadaceae, g__Cryptomonas, s__uncultured Cryptomonas
+ASV688,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Prorocentrales, f__Prorocentraceae, g__Prorocentrum, s__Prorocentrum cf. balticum
+ASV690,d__Eukaryota, p__Chlorophyta, c__Chlorophyceae, o__Sphaeropleales, f__Pseudomuriellaceae, g__Pseudomuriella, s__Pseudomuriella sp. Itas 9/21 14-1d
+ASV693,d__Eukaryota, p__Chrysophyta, c__Chrysophyceae, o__Chromulinales, f__Paraphysomonadaceae, g__Paraphysomonas, s__Paraphysomonas sp. SIOpierPara1
+ASV697,d__Eukaryota, p__Chrysophyta, c__Chrysophyceae, o__Chromulinales, f__Paraphysomonadaceae, g__Paraphysomonas, s__Paraphysomonas acuminata
+ASV698,d__Eukaryota, p__Chlorophyta, c__Trebouxiophyceae, o__Chlorellales, f__Chlorellaceae, g__Chlorella, s__Chlorella sp.
+ASV703,d__Eukaryota, p__Chlorophyta, c__Chlorophyceae, o__Chlamydomonadales, f__norank, g__Adglutina, s__Adglutina synurophila
+ASV706,d__Eukaryota, p__Chrysophyta, c__Chrysophyceae, o__Chromulinales, f__Chrysolepidomonadaceae, g__Chrysolepidomonas, s__Chrysolepidomonas sp.
+ASV711,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Peridiniales, f__Peridiniopsidaceae, g__Parvodinium, s__Parvodinium umbonatum
+ASV715,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Peridiniales, f__Peridiniaceae, g__Peridinium, s__Peridinium gatunense
+ASV719,d__Eukaryota, p__Chrysophyta, c__Chrysophyceae, o__Chromulinales, f__Paraphysomonadaceae, g__Paraphysomonas, s__Paraphysomonas foraminifera
+ASV723,d__Eukaryota, p__Chlorophyta, c__Trebouxiophyceae, o__Chlorellales, f__Oocystaceae, g__Oocystis, s__Oocystis sp. NIES-4297
+ASV726,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Peridiniales, f__Peridiniaceae, g__Pernambugia, s__Pernambugia tuberosa
+ASV729,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Peridiniales, f__Peridiniaceae, g__Peridinium, s__Peridinium gatunense
+ASV734,d__Eukaryota, p__Cryptophyta, c__Cryptophyceae, o__Kathablepharidacea, f__Katablepharidaceae, g__Hatena, s__Hatena arenicola
+ASV737,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Peridiniales, f__Peridiniaceae, g__Peridinium, s__Peridinium gatunense
+ASV749,d__Eukaryota, p__Eustigmatophyta, c__Eustigmatophyceae, o__Goniochloridales, f__Goniochloridaceae, g__Vacuoliviride, s__Vacuoliviride crystalliferum
+ASV750,d__Eukaryota, p__Chlorophyta, c__Trebouxiophyceae, o__Chlorellales, f__Chlorellaceae, g__Nannochloris, s__Nannochloris sp. YACCYB445
+ASV753,d__Eukaryota, p__Chlorophyta, c__Chlorophyceae, o__Chlamydomonadales, f__Chlamydomonadaceae, g__Chlamydomonas, s__Chlamydomonas sp. TgW1001D1P2
+ASV755,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Peridiniales, f__Peridiniaceae, g__Peridinium, s__Peridinium gatunense
+ASV756,d__Eukaryota, p__Bacillariophyta, c__Coscinodiscophyceae, o__Stephanodiscales, f__Stephanodiscaceae, g__Cyclotella, s__Cyclotella cf. ocellata
+ASV758,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Suessiales, f__Biecheleriaceae, g__Biecheleria, s__Biecheleria brevisulcata
+ASV764,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Gonyaulacales, f__Ceratiaceae, g__Ceratium, s__Ceratium furcoides
+ASV766,d__Eukaryota, p__Chrysophyta, c__Chrysophyceae, o__Chromulinales, f__Chromulinaceae, g__Ochromonas, s__uncultured Ochromonas
+ASV769,d__Eukaryota, p__Chlorophyta, c__Chlorophyceae, o__Chlamydomonadales, f__Chlamydomonadaceae, g__Carteria, s__Carteria sp. NIES-3902
+ASV770,d__Eukaryota, p__Chrysophyta, c__Chrysophyceae, o__Chromulinales, f__Paraphysomonadaceae, g__Paraphysomonas, s__Paraphysomonas sp. SIOpierPara1
+ASV772,d__Eukaryota, p__Cryptophyta, c__Cryptophyceae, o__Pyrenomonadales, f__Geminigeraceae, g__Geminigera, s__uncultured Geminigera
+ASV778,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Suessiales, f__Biecheleriaceae, g__Biecheleria, s__Biecheleria brevisulcata
+ASV779,d__Eukaryota, p__Chlorophyta, c__Chlorophyceae, o__Sphaeropleales, f__Pseudomuriellaceae, g__Pseudomuriella, s__Pseudomuriella sp. Itas 9/21 14-1d
+ASV785,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Thoracosphaerales, f__Thoracosphaeraceae, g__Stoeckeria, s__Stoeckeria sp. SSSC09
+ASV787,d__Eukaryota, p__Chlorophyta, c__Synurophyceae, o__Synurales, f__Mallomonadaceae, g__Mallomonas, s__Mallomonas pumilio
+ASV790,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Gymnodiniales, f__Gymnodiniaceae, g__Gyrodinium, s__Gyrodinium cf. gutrula
+ASV799,d__Eukaryota, p__Chlorophyta, c__Trebouxiophyceae, o__Chlorellales, f__Oocystaceae, g__Planctonema, s__Planctonema sp. M110-1
+ASV800,d__Eukaryota, p__Cryptophyta, c__Cryptophyceae, o__Kathablepharidacea, f__Katablepharidaceae, g__Hatena, s__Hatena arenicola
+ASV801,d__Eukaryota, p__Haptophyta, c__norank, o__Prymnesiales, f__Chrysochromulinaceae, g__Chrysochromulina, s__Chrysochromulina parva
+ASV804,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Peridiniales, f__Peridiniaceae, g__Peridinium, s__Peridinium gatunense
+ASV805,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Prorocentrales, f__Prorocentraceae, g__Prorocentrum, s__Prorocentrum koreanum
+ASV811,d__Eukaryota, p__Eustigmatophyta, c__Eustigmatophyceae, o__Goniochloridales, f__Goniochloridaceae, g__Vacuoliviride, s__Vacuoliviride crystalliferum
+ASV812,d__Eukaryota, p__Chlorophyta, c__Chlorophyceae, o__Sphaeropleales, f__Mychonastaceae, g__Mychonastes, s__Mychonastes sp. YHL/S/PLANKTON10
+ASV813,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Gonyaulacales, f__Ceratiaceae, g__Ceratium, s__Ceratium furcoides
+ASV815,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Peridiniales, f__Peridiniaceae, g__Peridinium, s__Peridinium gatunense
+ASV816,d__Eukaryota, p__Bacillariophyta, c__Coscinodiscophyceae, o__Stephanodiscales, f__Stephanodiscaceae, g__Discostella, s__Discostella pseudostelligera
+ASV824,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Thoracosphaerales, f__Thoracosphaeraceae, g__Apocalathium, s__Apocalathium aciculiferum
+ASV825,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Peridiniales, f__Peridiniaceae, g__Scrippsiella, s__Scrippsiella masanensis
+ASV827,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Peridiniales, f__Peridiniaceae, g__Peridinium, s__Peridinium gatunense
+ASV828,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Peridiniales, f__Peridiniaceae, g__Peridinium, s__Peridinium gatunense
+ASV836,d__Eukaryota, p__Chlorophyta, c__Chlorophyceae, o__Chlamydomonadales, f__Chlamydomonadaceae, g__Carteria, s__Carteria sp. NIES-3902
+ASV838,d__Eukaryota, p__Chlorophyta, c__Chlorophyceae, o__Sphaeropleales, f__Sphaeropleaceae, g__Tetraedron, s__Tetraedron sp. NIES-4278
+ASV841,d__Eukaryota, p__Bacillariophyta, c__Coscinodiscophyceae, o__Stephanodiscales, f__Stephanodiscaceae, g__Cyclotella, s__Cyclotella cf. comensis
+ASV845,d__Eukaryota, p__Eustigmatophyta, c__Eustigmatophyceae, o__Goniochloridales, f__Goniochloridaceae, g__Vacuoliviride, s__Vacuoliviride crystalliferum
+ASV846,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Peridiniales, f__Peridiniaceae, g__Peridinium, s__Peridinium cinctum
+ASV849,d__Eukaryota, p__Chlorophyta, c__Chlorophyceae, o__Chlamydomonadales, f__norank, g__Adglutina, s__Adglutina synurophila
+ASV851,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Thoracosphaerales, f__Thoracosphaeraceae, g__Apocalathium, s__Apocalathium aciculiferum
+ASV852,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Gymnodiniales, f__Gymnodiniaceae, g__Gyrodinium, s__Gyrodinium cf. gutrula
+ASV855,d__Eukaryota, p__Dictyochophyta, c__Dictyochophyceae, o__Pedinellales, f__norank, g__Pseudopedinella, s__Pseudopedinella sp. HSY-2011
+ASV856,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Peridiniales, f__Peridiniaceae, g__Peridinium, s__Peridinium gatunense
+ASV870,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Gonyaulacales, f__Ceratiaceae, g__Ceratium, s__Ceratium furcoides
+ASV873,d__Eukaryota, p__Haptophyta, c__Bolidophyceae, o__Parmales, f__Triparmaceae, g__Bolidomonas, s__Bolidomonas sp.
+ASV874,d__Eukaryota, p__Chlorophyta, c__Chlorophyceae, o__Sphaeropleales, f__Scenedesmaceae, g__Pectinodesmus, s__Pectinodesmus sp. GB1d
+ASV876,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Peridiniales, f__Peridiniaceae, g__Peridinium, s__Peridinium gatunense
+ASV878,d__Eukaryota, p__Chrysophyta, c__Chrysophyceae, o__Chromulinales, f__Dinobryaceae, g__Dinobryon, s__Dinobryon sociale
+ASV879,d__Eukaryota, p__Chrysophyta, c__Chrysophyceae, o__Chromulinales, f__Dinobryaceae, g__Dinobryon, s__Dinobryon sociale
+ASV880,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Gonyaulacales, f__Amphidomataceae, g__Azadinium, s__Azadinium cf. spinosum
+ASV882,d__Eukaryota, p__Bacillariophyta, c__Mediophyceae, o__Cymatosirales, f__Cymatosiraceae, g__Extubocellulus, s__Extubocellulus cupola
+ASV884,d__Eukaryota, p__Chrysophyta, c__Chrysophyceae, o__Chromulinales, f__Paraphysomonadaceae, g__Paraphysomonas, s__Paraphysomonas sp. HD
+ASV886,d__Eukaryota, p__Chlorophyta, c__Trebouxiophyceae, o__Chlorellales, f__Chlorellaceae, g__Meyerella, s__Meyerella planktonica
+ASV890,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Peridiniales, f__Peridiniaceae, g__Peridinium, s__Peridinium gatunense
+ASV894,d__Eukaryota, p__Rhodophyta, c__Bangiophyceae, o__Bangiales, f__Bangiaceae, g__Pyropia, s__Pyropia sp. 2 LEY-2017
+ASV896,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Lophodiniales, f__Lophodiniaceae, g__Biecheleriopsis, s__Biecheleriopsis adriatica
+ASV897,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Peridiniales, f__Peridiniaceae, g__Peridinium, s__Peridinium gatunense
+ASV898,d__Eukaryota, p__Cryptophyta, c__Cryptophyceae, o__Pyrenomonadales, f__Pyrenomonadaceae, g__Rhodomonas, s__Rhodomonas minuta
+ASV901,d__Eukaryota, p__Bacillariophyta, c__Coscinodiscophyceae, o__Stephanodiscales, f__Stephanodiscaceae, g__Cyclotella, s__Cyclotella cf. comensis
+ASV902,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Gonyaulacales, f__Ceratiaceae, g__Ceratium, s__Ceratium furcoides
+ASV905,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Thoracosphaerales, f__Thoracosphaeraceae, g__Stoeckeria, s__Stoeckeria sp. SSSC09
+ASV906,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Peridiniales, f__Peridiniaceae, g__Scrippsiella, s__Scrippsiella masanensis
+ASV913,d__Eukaryota, p__Chrysophyta, c__Chrysophyceae, o__Chromulinales, f__Chromulinaceae, g__Ochromonas, s__uncultured Ochromonas
+ASV914,d__Eukaryota, p__Chrysophyta, c__Chrysophyceae, o__Chromulinales, f__Paraphysomonadaceae, g__Paraphysomonas, s__Paraphysomonas acuminata
+ASV915,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Thoracosphaerales, f__Thoracosphaeraceae, g__Stoeckeria, s__Stoeckeria sp. SSSC09
+ASV916,d__Eukaryota, p__Eustigmatophyta, c__Eustigmatophyceae, o__Goniochloridales, f__Goniochloridaceae, g__Vacuoliviride, s__Vacuoliviride crystalliferum
+ASV922,d__Eukaryota, p__Chlorophyta, c__Synurophyceae, o__Synurales, f__Mallomonadaceae, g__Mallomonas, s__Mallomonas morrisonensis
+ASV926,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Peridiniales, f__Peridiniaceae, g__Peridinium, s__Peridinium gatunense
+ASV932,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Peridiniales, f__Peridiniaceae, g__Peridinium, s__Peridinium gatunense
+ASV933,d__Eukaryota, p__Chlorophyta, c__Trebouxiophyceae, o__norank, f__norank, g__Choricystis, s__Choricystis sp. NIES-4292
+ASV936,d__Eukaryota, p__Chrysophyta, c__Chrysophyceae, o__Chromulinales, f__Paraphysomonadaceae, g__Paraphysomonas, s__Paraphysomonas segmenta
+ASV937,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Peridiniales, f__Peridiniaceae, g__Peridinium, s__Peridinium gatunense
+ASV947,d__Eukaryota, p__Chlorophyta, c__Mamiellophyceae, o__Dolichomastigales, f__Crustomastigaceae, g__Crustomastix, s__Crustomastix stigmatica
+ASV948,d__Eukaryota, p__Chrysophyta, c__Chrysophyceae, o__Chromulinales, f__Paraphysomonadaceae, g__Paraphysomonas, s__Paraphysomonas imperforata
+ASV950,d__Eukaryota, p__Chrysophyta, c__Chrysophyceae, o__Chromulinales, f__Dinobryaceae, g__Dinobryon, s__Dinobryon sociale
+ASV952,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Prorocentrales, f__Prorocentraceae, g__Prorocentrum, s__Prorocentrum triestinum
+ASV953,d__Eukaryota, p__Chlorophyta, c__Synurophyceae, o__Synurales, f__Mallomonadaceae, g__Synura, s__Synura splendida
+ASV956,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Thoracosphaerales, f__Thoracosphaeraceae, g__Stoeckeria, s__Stoeckeria sp. SSSC09
+ASV959,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Peridiniales, f__Peridiniaceae, g__Peridinium, s__Peridinium gatunense
+ASV962,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Peridiniales, f__Peridiniaceae, g__Peridinium, s__Peridinium gatunense
+ASV963,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Peridiniales, f__Peridiniaceae, g__Peridinium, s__Peridinium gatunense
+ASV965,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Peridiniales, f__Peridiniaceae, g__Peridinium, s__Peridinium gatunense
+ASV973,d__Eukaryota, p__Chlorophyta, c__Chlorophyceae, o__Sphaeropleales, f__Scenedesmaceae, g__Desmodesmus, s__Desmodesmus sp. GM4i
+ASV974,d__Eukaryota, p__Chrysophyta, c__Chrysophyceae, o__Chromulinales, f__Chromulinaceae, g__Spumella, s__Spumella lacusvadosi
+ASV976,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Gonyaulacales, f__Amphidomataceae, g__Azadinium, s__Azadinium cf. spinosum
+ASV977,d__Eukaryota, p__Bacillariophyta, c__Bacillariophyceae, o__Naviculales, f__Diploneidaceae, g__Diploneis, s__Diploneis parca
+ASV978,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Peridiniales, f__Peridiniaceae, g__Peridinium, s__Peridinium gatunense
+ASV979,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Peridiniales, f__Peridiniaceae, g__Peridinium, s__Peridinium gatunense
+ASV981,d__Eukaryota, p__Chrysophyta, c__Chrysophyceae, o__Chromulinales, f__Chromulinaceae, g__Spumella, s__Spumella sp. OF-40
+ASV986,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Peridiniales, f__Peridiniaceae, g__Peridinium, s__Peridinium gatunense
+ASV988,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Peridiniales, f__Peridiniaceae, g__Peridinium, s__Peridinium gatunense
+ASV991,d__Eukaryota, p__Chrysophyta, c__Chrysophyceae, o__Chromulinales, f__Chromulinaceae, g__Ochromonas, s__Ochromonas sp. LO128-162
+ASV994,d__Eukaryota, p__Chlorophyta, c__Chlorophyceae, o__Chlamydomonadales, f__Volvocaceae, g__Volvox, s__Volvox aureus
+ASV997,d__Eukaryota, p__Chlorophyta, c__Synurophyceae, o__Synurales, f__Synuraceae, g__Chrysosphaerella, s__Chrysosphaerella brevispina
+ASV1000,d__Eukaryota, p__Chlorophyta, c__Trebouxiophyceae, o__Chlorellales, f__Chlorellaceae, g__Meyerella, s__Meyerella planktonica
+ASV1001,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Suessiales, f__Symbiodiniaceae, g__Symbiodinium, s__uncultured Symbiodinium
+ASV1002,d__Eukaryota, p__Cryptophyta, c__Cryptophyceae, o__Cyathomonadacea, f__Goniomonadaceae, g__Goniomonas, s__Goniomonas pacifica
+ASV1003,d__Eukaryota, p__Chlorophyta, c__Chlorophyceae, o__Chlamydomonadales, f__norank, g__Adglutina, s__Adglutina synurophila
+ASV1004,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Peridiniales, f__Peridiniaceae, g__Peridinium, s__Peridinium gatunense
+ASV1006,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Peridiniales, f__Peridiniaceae, g__Peridinium, s__Peridinium gatunense
+ASV1007,d__Eukaryota, p__Chlorophyta, c__Trebouxiophyceae, o__Chlorellales, f__Chlorellaceae, g__Chlorella, s__Chlorella sp.
+ASV1010,d__Eukaryota, p__Chlorophyta, c__Chlorophyceae, o__Sphaeropleales, f__Mychonastaceae, g__Mychonastes, s__Mychonastes sp. YHL/S/PLANKTON10
+ASV1012,d__Eukaryota, p__Cryptophyta, c__Cryptophyceae, o__Cryptomonadales, f__Cryptomonadaceae, g__Cryptomonas, s__Cryptomonas parapyrenoidifera
+ASV1016,d__Eukaryota, p__Eustigmatophyta, c__Eustigmatophyceae, o__Goniochloridales, f__Goniochloridaceae, g__Vacuoliviride, s__Vacuoliviride crystalliferum
+ASV1017,d__Eukaryota, p__Bacillariophyta, c__Fragilariophyceae, o__Fragilariales, f__Fragilariaceae, g__Asterionella, s__Asterionella formosa
+ASV1019,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Peridiniales, f__Peridiniaceae, g__Peridinium, s__Peridinium gatunense
+ASV1021,d__Eukaryota, p__Chlorophyta, c__Trebouxiophyceae, o__Chlorellales, f__Chlorellaceae, g__Chlorella, s__Chlorella sp.
+ASV1023,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Peridiniales, f__Peridiniaceae, g__Peridinium, s__Peridinium gatunense
+ASV1024,d__Eukaryota, p__Bacillariophyta, c__Fragilariophyceae, o__Fragilariales, f__Fragilariaceae, g__Hendeyella, s__Hendeyella dimeregrammopsis
+ASV1025,d__Eukaryota, p__Cryptophyta, c__Cryptophyceae, o__Kathablepharidacea, f__Katablepharidaceae, g__Hatena, s__Hatena arenicola
+ASV1026,d__Eukaryota, p__Chlorophyta, c__Trebouxiophyceae, o__norank, f__norank, g__Botryococcus, s__Botryococcus braunii
+ASV1032,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Gonyaulacales, f__Ceratiaceae, g__Ceratium, s__Ceratium furcoides
+ASV1035,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Thoracosphaerales, f__Thoracosphaeraceae, g__Stoeckeria, s__Stoeckeria sp. SSSC09
+ASV1038,d__Eukaryota, p__Eustigmatophyta, c__Eustigmatophyceae, o__Goniochloridales, f__Goniochloridaceae, g__Vacuoliviride, s__Vacuoliviride crystalliferum
+ASV1050,d__Eukaryota, p__Haptophyta, c__norank, o__Prymnesiales, f__Chrysochromulinaceae, g__Chrysochromulina, s__Chrysochromulina parva
+ASV1051,d__Eukaryota, p__Chrysophyta, c__Chrysophyceae, o__Chromulinales, f__Dinobryaceae, g__Dinobryon, s__Dinobryon sociale
+ASV1054,d__Eukaryota, p__Cryptophyta, c__Cryptophyceae, o__Kathablepharidacea, f__Katablepharidaceae, g__Hatena, s__Hatena arenicola
+ASV1056,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Suessiales, f__Biecheleriaceae, g__Biecheleria, s__Biecheleria sp.
+ASV1059,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Suessiales, f__Symbiodiniaceae, g__Symbiodinium, s__uncultured Symbiodinium
+ASV1061,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Gymnodiniales, f__Gymnodiniaceae, g__Gyrodinium, s__Gyrodinium cf. gutrula
+ASV1062,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Peridiniales, f__Peridiniaceae, g__Peridinium, s__Peridinium gatunense
+ASV1064,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Peridiniales, f__Peridiniaceae, g__Peridinium, s__Peridinium gatunense
+ASV1081,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Peridiniales, f__Peridiniaceae, g__Peridinium, s__Peridinium gatunense
+ASV1093,d__Eukaryota, p__Chrysophyta, c__Chrysophyceae, o__Chromulinales, f__Dinobryaceae, g__Dinobryon, s__Dinobryon sociale
+ASV1094,d__Eukaryota, p__Chrysophyta, c__Chrysophyceae, o__Chromulinales, f__Paraphysomonadaceae, g__Paraphysomonas, s__Paraphysomonas foraminifera
+ASV1096,d__Eukaryota, p__Chlorophyta, c__Chlorophyceae, o__Sphaeropleales, f__Pseudomuriellaceae, g__Pseudomuriella, s__Pseudomuriella sp. Itas 9/21 14-1d
+ASV1098,d__Eukaryota, p__Chlorophyta, c__Chlorophyceae, o__Sphaeropleales, f__Scenedesmaceae, g__Pectinodesmus, s__Pectinodesmus sp. GB1j
+ASV1102,d__Eukaryota, p__Eustigmatophyta, c__Eustigmatophyceae, o__Goniochloridales, f__Goniochloridaceae, g__Trachydiscus, s__Trachydiscus sp.
+ASV1103,d__Eukaryota, p__Chlorophyta, c__Mamiellophyceae, o__Mamiellales, f__Mamiellaceae, g__Mamiella, s__Mamiella gilva
+ASV1104,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Prorocentrales, f__Prorocentraceae, g__Prorocentrum, s__Prorocentrum triestinum
+ASV1106,d__Eukaryota, p__Chlorophyta, c__Chlorophyceae, o__Sphaeropleales, f__Neochloridaceae, g__Characiopodium, s__Characiopodium hindakii
+ASV1110,d__Eukaryota, p__Chrysophyta, c__Chrysophyceae, o__Chromulinales, f__Paraphysomonadaceae, g__Paraphysomonas, s__Paraphysomonas lucasi
+ASV1114,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Peridiniales, f__Peridiniaceae, g__Scrippsiella, s__Scrippsiella masanensis
+ASV1119,d__Eukaryota, p__Chlorophyta, c__Trebouxiophyceae, o__norank, f__norank, g__Choricystis, s__Choricystis sp. NIES-4292
+ASV1124,d__Eukaryota, p__Dictyochophyta, c__Dictyochophyceae, o__Pedinellales, f__norank, g__Pseudopedinella, s__Pseudopedinella sp. HSY-2011
+ASV1126,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Peridiniales, f__Peridiniaceae, g__Scrippsiella, s__Scrippsiella masanensis
+ASV1127,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Peridiniales, f__Peridiniaceae, g__Peridinium, s__Peridinium gatunense
+ASV1131,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Thoracosphaerales, f__Thoracosphaeraceae, g__Apocalathium, s__Apocalathium aciculiferum
+ASV1133,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Thoracosphaerales, f__Thoracosphaeraceae, g__Stoeckeria, s__Stoeckeria sp. SSSC09
+ASV1136,d__Eukaryota, p__Bacillariophyta, c__Coscinodiscophyceae, o__Stephanodiscales, f__Stephanodiscaceae, g__Cyclotella, s__Cyclotella cf. ocellata
+ASV1146,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Peridiniales, f__Peridiniaceae, g__Peridinium, s__Peridinium gatunense
+ASV1149,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Suessiales, f__Biecheleriaceae, g__Biecheleria, s__Biecheleria brevisulcata
+ASV1162,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Peridiniales, f__Peridiniaceae, g__Peridinium, s__Peridinium gatunense
+ASV1164,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Peridiniales, f__Peridiniaceae, g__Peridinium, s__Peridinium gatunense
+ASV1168,d__Eukaryota, p__Chlorophyta, c__Chlorophyceae, o__Sphaeropleales, f__Neochloridaceae, g__Neochloris, s__Neochloris terrestris
+ASV1169,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Peridiniales, f__Peridiniaceae, g__Peridinium, s__Peridinium gatunense
+ASV1174,d__Eukaryota, p__Chrysophyta, c__Chrysophyceae, o__Chromulinales, f__Paraphysomonadaceae, g__Paraphysomonas, s__Paraphysomonas sp. HJL10
+ASV1175,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Prorocentrales, f__Prorocentraceae, g__Exuviaella, s__Exuviaella pusilla
+ASV1177,d__Eukaryota, p__Eustigmatophyta, c__Eustigmatophyceae, o__Goniochloridales, f__Goniochloridaceae, g__Trachydiscus, s__Trachydiscus sp.
+ASV1179,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Peridiniales, f__Peridiniaceae, g__Peridinium, s__Peridinium gatunense
+ASV1180,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Suessiales, f__Borghiellaceae, g__Baldinia, s__Baldinia anauniensis
+ASV1181,d__Eukaryota, p__Chlorophyta, c__Trebouxiophyceae, o__Chlorellales, f__Chlorellaceae, g__Chlorella, s__Chlorella sorokiniana
+ASV1183,d__Eukaryota, p__Chrysophyta, c__Chrysophyceae, o__Chromulinales, f__Chromulinaceae, g__Ochromonas, s__Ochromonas sp. LO128-162
+ASV1189,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Suessiales, f__Symbiodiniaceae, g__Symbiodinium, s__uncultured Symbiodinium
+ASV1193,d__Eukaryota, p__Chlorophyta, c__Chlorophyceae, o__Sphaeropleales, f__Selenastraceae, g__Monoraphidium, s__Monoraphidium convolutum
+ASV1194,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Gonyaulacales, f__Ceratiaceae, g__Ceratium, s__Ceratium furcoides
+ASV1196,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Peridiniales, f__Peridiniopsidaceae, g__Peridiniopsis, s__Peridiniopsis polonicum
+ASV1206,d__Eukaryota, p__Chlorophyta, c__Chlorophyceae, o__Chlamydomonadales, f__Volvocaceae, g__Volvox, s__Volvox aureus
+ASV1210,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Peridiniales, f__Peridiniaceae, g__Peridinium, s__Peridinium gatunense
+ASV1226,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Peridiniales, f__Peridiniaceae, g__Peridinium, s__Peridinium gatunense
+ASV1233,d__Eukaryota, p__Chlorophyta, c__Chlorophyceae, o__Chlamydomonadales, f__norank, g__Adglutina, s__Adglutina synurophila
+ASV1234,d__Eukaryota, p__Chrysophyta, c__Chrysophyceae, o__Chromulinales, f__Paraphysomonadaceae, g__Paraphysomonas, s__Paraphysomonas foraminifera
+ASV1235,d__Eukaryota, p__Chrysophyta, c__Chrysophyceae, o__Chromulinales, f__Chromulinaceae, g__Ochromonas, s__uncultured Ochromonas
+ASV1241,d__Eukaryota, p__Chlorophyta, c__Synurophyceae, o__Synurales, f__Mallomonadaceae, g__Synura, s__Synura macracantha
+ASV1242,d__Eukaryota, p__Chlorophyta, c__Chlorophyceae, o__Sphaeropleales, f__Selenastraceae, g__Monoraphidium, s__Monoraphidium sp. QLZ-3
+ASV1246,d__Eukaryota, p__Chlorophyta, c__Synurophyceae, o__Synurales, f__Mallomonadaceae, g__Synura, s__Synura splendida
+ASV1253,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Peridiniales, f__Peridiniaceae, g__Peridinium, s__Peridinium gatunense
+ASV1254,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Gonyaulacales, f__Ceratiaceae, g__Ceratium, s__Ceratium furcoides
+ASV1258,d__Eukaryota, p__Chlorophyta, c__Chlorophyceae, o__Sphaeropleales, f__Mychonastaceae, g__Mychonastes, s__Mychonastes sp. YHL/S/PLANKTON10
+ASV1264,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Dinophysales, f__Dinophysaceae, g__Sinophysis, s__Sinophysis stenosoma
+ASV1265,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Peridiniales, f__Peridiniaceae, g__Peridinium, s__Peridinium gatunense
+ASV1267,d__Eukaryota, p__Cryptophyta, c__Cryptophyceae, o__Kathablepharidacea, f__Katablepharidaceae, g__Hatena, s__Hatena arenicola
+ASV1268,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Peridiniales, f__Peridiniaceae, g__Scrippsiella, s__Scrippsiella masanensis
+ASV1272,d__Eukaryota, p__Haptophyta, c__norank, o__Prymnesiales, f__Chrysochromulinaceae, g__Chrysochromulina, s__Chrysochromulina parva
+ASV1273,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Suessiales, f__Biecheleriaceae, g__Biecheleria, s__Biecheleria brevisulcata
+ASV1274,d__Eukaryota, p__Chrysophyta, c__Chrysophyceae, o__Chromulinales, f__Chromulinaceae, g__Ochromonas, s__Ochromonas sp. LO128-162
+ASV1275,d__Eukaryota, p__Chlorophyta, c__Chlorophyceae, o__Sphaeropleales, f__Scenedesmaceae, g__Neodesmus, s__Neodesmus sp. LIPBS
+ASV1276,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Peridiniales, f__Peridiniaceae, g__Peridinium, s__Peridinium gatunense
+ASV1278,d__Eukaryota, p__Eustigmatophyta, c__Eustigmatophyceae, o__Goniochloridales, f__Goniochloridaceae, g__Vacuoliviride, s__Vacuoliviride crystalliferum
+ASV1282,d__Eukaryota, p__Chrysophyta, c__Chrysophyceae, o__Chromulinales, f__Chromulinaceae, g__Ochromonas, s__Ochromonas tuberculata
+ASV1285,d__Eukaryota, p__Eustigmatophyta, c__Eustigmatophyceae, o__Goniochloridales, f__Goniochloridaceae, g__Vacuoliviride, s__Vacuoliviride crystalliferum
+ASV1289,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Peridiniales, f__Peridiniaceae, g__Peridinium, s__Peridinium gatunense
+ASV1292,d__Eukaryota, p__Chlorophyta, c__Trebouxiophyceae, o__Chlorellales, f__Chlorellaceae, g__Chlorella, s__Chlorella sorokiniana
+ASV1293,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Suessiales, f__Biecheleriaceae, g__Biecheleria, s__Biecheleria sp.
+ASV1297,d__Eukaryota, p__Cryptophyta, c__Cryptophyceae, o__Kathablepharidacea, f__Katablepharidaceae, g__Hatena, s__Hatena arenicola
+ASV1303,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Peridiniales, f__Peridiniaceae, g__Peridinium, s__Peridinium gatunense
+ASV1306,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Lophodiniales, f__Lophodiniaceae, g__Woloszynskia, s__uncultured Woloszynskia
+ASV1309,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Peridiniales, f__Peridiniaceae, g__Peridinium, s__Peridinium gatunense
+ASV1312,d__Eukaryota, p__Chlorophyta, c__Chlorophyceae, o__Sphaeropleales, f__Sphaeropleaceae, g__Tetraedron, s__Tetraedron sp. NIES-4278
+ASV1316,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Peridiniales, f__Peridiniaceae, g__Peridinium, s__Peridinium gatunense
+ASV1317,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Peridiniales, f__Heterocapsaceae, g__Heterocapsa, s__Heterocapsa pygmaea
+ASV1322,d__Eukaryota, p__Chrysophyta, c__Chrysophyceae, o__Chromulinales, f__Paraphysomonadaceae, g__Paraphysomonas, s__Paraphysomonas acuminata
+ASV1326,d__Eukaryota, p__Eustigmatophyta, c__Eustigmatophyceae, o__Goniochloridales, f__Goniochloridaceae, g__Vacuoliviride, s__Vacuoliviride crystalliferum
+ASV1328,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Peridiniales, f__Peridiniaceae, g__Peridinium, s__Peridinium gatunense
+ASV1334,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Peridiniales, f__Peridiniaceae, g__Peridinium, s__Peridinium gatunense
+ASV1339,d__Eukaryota, p__Dictyochophyta, c__Dictyochophyceae, o__Pedinellales, f__norank, g__Pseudopedinella, s__Pseudopedinella sp. HSY-2011
+ASV1341,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Peridiniales, f__Peridiniaceae, g__Peridinium, s__Peridinium gatunense
+ASV1350,d__Eukaryota, p__Chlorophyta, c__Mamiellophyceae, o__Dolichomastigales, f__Crustomastigaceae, g__Crustomastix, s__Crustomastix stigmatica
+ASV1351,d__Eukaryota, p__Chlorophyta, c__Chlorophyceae, o__Chlamydomonadales, f__Chlamydomonadaceae, g__Carteria, s__Carteria sp. NIES-3902
+ASV1354,d__Eukaryota, p__Chlorophyta, c__Chlorophyceae, o__Chlamydomonadales, f__Volvocaceae, g__Volvox, s__Volvox aureus
+ASV1360,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Prorocentrales, f__Prorocentraceae, g__Prorocentrum, s__Prorocentrum triestinum
+ASV1362,d__Eukaryota, p__Chrysophyta, c__Chrysophyceae, o__Chromulinales, f__Dinobryaceae, g__Dinobryon, s__Dinobryon sociale
+ASV1366,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Peridiniales, f__Peridiniaceae, g__Scrippsiella, s__Scrippsiella masanensis
+ASV1368,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Lophodiniales, f__Lophodiniaceae, g__Biecheleriopsis, s__Biecheleriopsis adriatica
+ASV1370,d__Eukaryota, p__Chlorophyta, c__Chlorodendrophyceae, o__Chlorodendrales, f__Chlorodendraceae, g__Tetraselmis, s__Tetraselmis sp. RCC233
+ASV1371,d__Eukaryota, p__Chrysophyta, c__Chrysophyceae, o__Chromulinales, f__Chromulinaceae, g__Ochromonas, s__Ochromonas tuberculata
+ASV1374,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Gymnodiniales, f__Kareniaceae, g__Karenia, s__Karenia mikimotoi
+ASV1376,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Peridiniales, f__Peridiniaceae, g__Scrippsiella, s__Scrippsiella masanensis
+ASV1378,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Peridiniales, f__Peridiniaceae, g__Peridinium, s__Peridinium gatunense
+ASV1379,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Gymnodiniales, f__Gymnodiniaceae, g__Nusuttodinium, s__Nusuttodinium amphidinioides
+ASV1380,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Peridiniales, f__Peridiniaceae, g__Scrippsiella, s__Scrippsiella masanensis
+ASV1383,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Peridiniales, f__Peridiniaceae, g__Scrippsiella, s__Scrippsiella masanensis
+ASV1386,d__Eukaryota, p__Haptophyta, c__Bolidophyceae, o__Parmales, f__Triparmaceae, g__Bolidomonas, s__Bolidomonas sp.
+ASV1388,d__Eukaryota, p__Eustigmatophyta, c__Eustigmatophyceae, o__Goniochloridales, f__Goniochloridaceae, g__Vacuoliviride, s__Vacuoliviride crystalliferum
+ASV1392,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Peridiniales, f__Peridiniopsidaceae, g__Peridiniopsis, s__Peridiniopsis polonicum
+ASV1403,d__Eukaryota, p__Chrysophyta, c__Chrysophyceae, o__Chromulinales, f__Paraphysomonadaceae, g__Paraphysomonas, s__Paraphysomonas sp. 9 JMS-2012
+ASV1407,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Thoracosphaerales, f__Thoracosphaeraceae, g__Stoeckeria, s__Stoeckeria sp. SSSC09
+ASV1416,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Peridiniales, f__Peridiniaceae, g__Peridinium, s__Peridinium gatunense
+ASV1418,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Peridiniales, f__Peridiniopsidaceae, g__Parvodinium, s__Parvodinium umbonatum
+ASV1426,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Peridiniales, f__Peridiniaceae, g__Peridinium, s__Peridinium gatunense
+ASV1436,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Peridiniales, f__Heterocapsaceae, g__Heterocapsa, s__Heterocapsa pygmaea
+ASV1441,d__Eukaryota, p__Chrysophyta, c__Chrysophyceae, o__Chromulinales, f__Paraphysomonadaceae, g__Paraphysomonas, s__Paraphysomonas acuminata
+ASV1447,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Thoracosphaerales, f__Thoracosphaeraceae, g__Stoeckeria, s__Stoeckeria sp. SSSC09
+ASV1456,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Peridiniales, f__Peridiniaceae, g__Scrippsiella, s__Scrippsiella masanensis
+ASV1461,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Prorocentrales, f__Prorocentraceae, g__Prorocentrum, s__Prorocentrum cf. balticum
+ASV1465,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Gymnodiniales, f__Gymnodiniaceae, g__Gyrodinium, s__Gyrodinium sp.
+ASV1466,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Peridiniales, f__Peridiniaceae, g__Peridinium, s__Peridinium gatunense
+ASV1467,d__Eukaryota, p__Eustigmatophyta, c__Eustigmatophyceae, o__Eustigmatales, f__Monodopsidaceae, g__Nannochloropsis, s__Nannochloropsis gaditana
+ASV1471,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Peridiniales, f__Peridiniaceae, g__Peridinium, s__Peridinium gatunense
+ASV1472,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Peridiniales, f__Peridiniaceae, g__Peridinium, s__Peridinium gatunense
+ASV1473,d__Eukaryota, p__Chrysophyta, c__Chrysophyceae, o__Chromulinales, f__Paraphysomonadaceae, g__Paraphysomonas, s__Paraphysomonas acuminata
+ASV1479,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Peridiniales, f__Peridiniaceae, g__Peridinium, s__Peridinium gatunense
+ASV1481,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Thoracosphaerales, f__Thoracosphaeraceae, g__Apocalathium, s__Apocalathium aciculiferum
+ASV1485,d__Eukaryota, p__Chrysophyta, c__Chrysophyceae, o__Chromulinales, f__Paraphysomonadaceae, g__Paraphysomonas, s__Paraphysomonas mikadiforma
+ASV1487,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Thoracosphaerales, f__Thoracosphaeraceae, g__Apocalathium, s__Apocalathium aciculiferum
+ASV1493,d__Eukaryota, p__Chrysophyta, c__Chrysophyceae, o__Chromulinales, f__Paraphysomonadaceae, g__Paraphysomonas, s__Paraphysomonas lucasi
+ASV1494,d__Eukaryota, p__Eustigmatophyta, c__Eustigmatophyceae, o__Goniochloridales, f__Goniochloridaceae, g__Vacuoliviride, s__Vacuoliviride crystalliferum
+ASV1500,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Peridiniales, f__Peridiniaceae, g__Peridinium, s__Peridinium gatunense
+ASV1502,d__Eukaryota, p__Chlorophyta, c__Trebouxiophyceae, o__norank, f__norank, g__Picochlorum, s__Picochlorum eukaryotum
+ASV1505,d__Eukaryota, p__Chrysophyta, c__Chrysophyceae, o__Chromulinales, f__Paraphysomonadaceae, g__Paraphysomonas, s__Paraphysomonas acuminata
+ASV1512,d__Eukaryota, p__Bacillariophyta, c__Coscinodiscophyceae, o__Stephanodiscales, f__Stephanodiscaceae, g__Cyclotella, s__Cyclotella cf. ocellata
+ASV1513,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Peridiniales, f__Peridiniaceae, g__Peridinium, s__Peridinium gatunense
+ASV1516,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Peridiniales, f__Peridiniaceae, g__Peridinium, s__Peridinium gatunense
+ASV1517,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Suessiales, f__Biecheleriaceae, g__Biecheleria, s__Biecheleria brevisulcata
+ASV1518,d__Eukaryota, p__Eustigmatophyta, c__Eustigmatophyceae, o__Goniochloridales, f__Goniochloridaceae, g__Vacuoliviride, s__Vacuoliviride crystalliferum
+ASV1521,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Lophodiniales, f__Lophodiniaceae, g__Biecheleriopsis, s__Biecheleriopsis adriatica
+ASV1523,d__Eukaryota, p__Chlorophyta, c__Trebouxiophyceae, o__Chlorellales, f__Oocystaceae, g__Ecballocystopsis, s__Ecballocystopsis dichotomus
+ASV1528,d__Eukaryota, p__Bacillariophyta, c__Fragilariophyceae, o__Fragilariales, f__Fragilariaceae, g__Asterionella, s__Asterionella formosa
+ASV1529,d__Eukaryota, p__Chlorophyta, c__Trebouxiophyceae, o__Chlorellales, f__Chlorellaceae, g__Chlorella, s__Chlorella vulgaris
+ASV1533,d__Eukaryota, p__Chrysophyta, c__Chrysophyceae, o__Chromulinales, f__Chromulinaceae, g__Ochromonas, s__Ochromonas sp.
+ASV1534,d__Eukaryota, p__Bacillariophyta, c__Coscinodiscophyceae, o__Stephanodiscales, f__Stephanodiscaceae, g__Stephanodiscus, s__Stephanodiscus hantzschii
+ASV1539,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Peridiniales, f__Peridiniaceae, g__Peridinium, s__Peridinium gatunense
+ASV1543,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Gymnodiniales, f__Gymnodiniaceae, g__Gymnodinium, s__Gymnodinium sp. LaTo2
+ASV1547,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Peridiniales, f__Peridiniaceae, g__Peridinium, s__Peridinium gatunense
+ASV1551,d__Eukaryota, p__Chrysophyta, c__Chrysophyceae, o__Chromulinales, f__Paraphysomonadaceae, g__Paraphysomonas, s__Paraphysomonas foraminifera
+ASV1554,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Suessiales, f__Biecheleriaceae, g__Biecheleria, s__Biecheleria brevisulcata
+ASV1557,d__Eukaryota, p__Chlorophyta, c__Chlorophyceae, o__Sphaeropleales, f__Selenastraceae, g__Monoraphidium, s__Monoraphidium convolutum
+ASV1559,d__Eukaryota, p__Chlorophyta, c__Chlorophyceae, o__Sphaeropleales, f__Pseudomuriellaceae, g__Pseudomuriella, s__Pseudomuriella sp. Itas 9/21 14-1d
+ASV1560,d__Eukaryota, p__Chlorophyta, c__Trebouxiophyceae, o__norank, f__norank, g__Picochlorum, s__Picochlorum eukaryotum
+ASV1561,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Peridiniales, f__Peridiniaceae, g__Peridinium, s__Peridinium gatunense
+ASV1562,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Peridiniales, f__Heterocapsaceae, g__Heterocapsa, s__Heterocapsa pygmaea
+ASV1568,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Gonyaulacales, f__Ceratiaceae, g__Ceratium, s__Ceratium furcoides
+ASV1572,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Peridiniales, f__Peridiniaceae, g__Peridinium, s__Peridinium gatunense
+ASV1575,d__Eukaryota, p__Chlorophyta, c__Chlorophyceae, o__Sphaeropleales, f__Neochloridaceae, g__Neochloris, s__Neochloris terrestris
+ASV1576,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Peridiniales, f__Peridiniaceae, g__Peridinium, s__Peridinium gatunense
+ASV1577,d__Eukaryota, p__Chlorophyta, c__Chlorophyceae, o__Sphaeropleales, f__Selenastraceae, g__Monoraphidium, s__Monoraphidium convolutum
+ASV1581,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Peridiniales, f__Peridiniaceae, g__Peridinium, s__Peridinium gatunense
+ASV1584,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Peridiniales, f__Heterocapsaceae, g__Heterocapsa, s__Heterocapsa pygmaea
+ASV1585,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Peridiniales, f__Peridiniaceae, g__Peridinium, s__Peridinium gatunense
+ASV1587,d__Eukaryota, p__Eustigmatophyta, c__Eustigmatophyceae, o__norank, f__norank, g__Paraeustigmatos, s__Paraeustigmatos columelliferus
+ASV1592,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Peridiniales, f__Peridiniaceae, g__Peridinium, s__Peridinium gatunense
+ASV1593,d__Eukaryota, p__Rhodophyta, c__Bangiophyceae, o__Bangiales, f__Bangiaceae, g__Pyropia, s__Pyropia sp. 2 LEY-2017
+ASV1594,d__Eukaryota, p__Chrysophyta, c__Chrysophyceae, o__Chromulinales, f__Chromulinaceae, g__Cyclonexis, s__Cyclonexis annularis
+ASV1597,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Peridiniales, f__Peridiniaceae, g__Peridinium, s__Peridinium gatunense
+ASV1603,d__Eukaryota, p__Chlorophyta, c__Mamiellophyceae, o__Dolichomastigales, f__Crustomastigaceae, g__Crustomastix, s__Crustomastix stigmatica
+ASV1607,d__Eukaryota, p__Chlorophyta, c__Chlorophyceae, o__Chlamydomonadales, f__norank, g__Paulschulzia, s__Paulschulzia pseudovolvox
+ASV1608,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Peridiniales, f__Peridiniaceae, g__Peridinium, s__Peridinium gatunense
+ASV1609,d__Eukaryota, p__Chlorophyta, c__Mamiellophyceae, o__Dolichomastigales, f__Crustomastigaceae, g__Crustomastix, s__Crustomastix stigmatica
+ASV1610,d__Eukaryota, p__Bacillariophyta, c__Bacillariophyceae, o__Cocconeidales, f__Achnanthidiaceae, g__Achnanthidium, s__Achnanthidium minutissimum
+ASV1613,d__Eukaryota, p__Chlorophyta, c__Trebouxiophyceae, o__norank, f__norank, g__Choricystis, s__Choricystis parasitica
+ASV1616,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Peridiniales, f__Peridiniaceae, g__Peridinium, s__Peridinium gatunense
+ASV1617,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Suessiales, f__Biecheleriaceae, g__Biecheleria, s__Biecheleria brevisulcata
+ASV1622,d__Eukaryota, p__Chlorophyta, c__Trebouxiophyceae, o__norank, f__norank, g__Botryococcus, s__Botryococcus braunii
+ASV1623,d__Eukaryota, p__Chrysophyta, c__Chrysophyceae, o__Chromulinales, f__Chromulinaceae, g__Ochromonas, s__Ochromonas sp. LO128-162
+ASV1627,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Peridiniales, f__Peridiniopsidaceae, g__Peridiniopsis, s__Peridiniopsis polonicum
+ASV1635,d__Eukaryota, p__Chlorophyta, c__Chlorophyceae, o__Chlamydomonadales, f__Chlamydomonadaceae, g__Carteria, s__Carteria sp. H2
+ASV1636,d__Eukaryota, p__Bacillariophyta, c__Fragilariophyceae, o__Licmophorales, f__Ulnariaceae, g__Ulnaria, s__Ulnaria acus
+ASV1639,d__Eukaryota, p__Chlorophyta, c__Chlorophyceae, o__Sphaeropleales, f__Scenedesmaceae, g__Hariotina, s__Hariotina reticulata
+ASV1643,d__Eukaryota, p__Chlorophyta, c__Trebouxiophyceae, o__Chlorellales, f__Chlorellaceae, g__Chlorella, s__Chlorella sp.
+ASV1644,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Peridiniales, f__Peridiniaceae, g__Peridinium, s__Peridinium gatunense
+ASV1645,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Peridiniales, f__Peridiniaceae, g__Peridinium, s__Peridinium gatunense
+ASV1646,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Peridiniales, f__Peridiniaceae, g__Peridinium, s__Peridinium gatunense
+ASV1652,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Peridiniales, f__Peridiniaceae, g__Peridinium, s__Peridinium gatunense
+ASV1659,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Peridiniales, f__Peridiniaceae, g__Peridinium, s__Peridinium gatunense
+ASV1660,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Gonyaulacales, f__Ceratiaceae, g__Ceratium, s__Ceratium furcoides
+ASV1661,d__Eukaryota, p__Chlorophyta, c__Trebouxiophyceae, o__norank, f__norank, g__Choricystis, s__Choricystis sp. NIES-4292
+ASV1667,d__Eukaryota, p__Chlorophyta, c__Chlorophyceae, o__Chlamydomonadales, f__Volvocaceae, g__Volvox, s__Volvox aureus
+ASV1669,d__Eukaryota, p__Cryptophyta, c__Cryptophyceae, o__Cryptomonadales, f__Cryptomonadaceae, g__Plagioselmis, s__Plagioselmis nannoplanctica
+ASV1672,d__Eukaryota, p__Chlorophyta, c__Chlorophyceae, o__Chlamydomonadales, f__Chlamydomonadaceae, g__Carteria, s__Carteria sp. NIES-3902
+ASV1675,d__Eukaryota, p__Eustigmatophyta, c__Eustigmatophyceae, o__Goniochloridales, f__Goniochloridaceae, g__Vacuoliviride, s__Vacuoliviride crystalliferum
+ASV1683,d__Eukaryota, p__Chlorophyta, c__Chlorophyceae, o__Sphaeropleales, f__Neochloridaceae, g__Neochloris, s__Neochloris terrestris
+ASV1684,d__Eukaryota, p__Dictyochophyta, c__Dictyochophyceae, o__Pedinellales, f__norank, g__Pseudopedinella, s__Pseudopedinella sp. HSY-2011
+ASV1687,d__Eukaryota, p__Haptophyta, c__Bolidophyceae, o__Parmales, f__Triparmaceae, g__Bolidomonas, s__Bolidomonas sp.
+ASV1689,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Peridiniales, f__Peridiniaceae, g__Peridinium, s__Peridinium gatunense
+ASV1690,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Peridiniales, f__Peridiniaceae, g__Peridinium, s__Peridinium gatunense
+ASV1691,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Gonyaulacales, f__Ceratiaceae, g__Ceratium, s__Ceratium furcoides
+ASV1693,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Peridiniales, f__Peridiniaceae, g__Peridinium, s__Peridinium gatunense
+ASV1694,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Peridiniales, f__Peridiniaceae, g__Peridinium, s__Peridinium gatunense
+ASV1696,d__Eukaryota, p__Haptophyta, c__norank, o__Prymnesiales, f__Chrysochromulinaceae, g__Chrysochromulina, s__Chrysochromulina parva
+ASV1697,d__Eukaryota, p__Chlorophyta, c__Trebouxiophyceae, o__Chlorellales, f__Chlorellaceae, g__Meyerella, s__Meyerella planktonica
+ASV1703,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Thoracosphaerales, f__Thoracosphaeraceae, g__Stoeckeria, s__Stoeckeria sp. SSSC09
+ASV1705,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Peridiniales, f__Heterocapsaceae, g__Heterocapsa, s__Heterocapsa pygmaea
+ASV1706,d__Eukaryota, p__Cryptophyta, c__Cryptophyceae, o__Kathablepharidacea, f__Katablepharidaceae, g__Hatena, s__Hatena arenicola
+ASV1707,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Gymnodiniales, f__Gymnodiniaceae, g__Gyrodinium, s__Gyrodinium sp.
+ASV1711,d__Eukaryota, p__Chlorophyta, c__Chlorophyceae, o__Chlamydomonadales, f__Chlamydomonadaceae, g__Carteria, s__Carteria sp. RCC2487
+ASV1712,d__Eukaryota, p__Bacillariophyta, c__Coscinodiscophyceae, o__Stephanodiscales, f__Stephanodiscaceae, g__Cyclostephanos, s__Cyclostephanos dubius
+ASV1716,d__Eukaryota, p__Cryptophyta, c__Cryptophyceae, o__Kathablepharidacea, f__Katablepharidaceae, g__Hatena, s__Hatena arenicola
+ASV1720,d__Eukaryota, p__Chrysophyta, c__Chrysophyceae, o__Chromulinales, f__Chromulinaceae, g__Ochromonas, s__uncultured Ochromonas
+ASV1721,d__Eukaryota, p__Cryptophyta, c__Cryptophyceae, o__Cryptomonadales, f__Cryptomonadaceae, g__Cryptomonas, s__uncultured Cryptomonas
+ASV1733,d__Eukaryota, p__Chrysophyta, c__Chrysophyceae, o__Chromulinales, f__Paraphysomonadaceae, g__Paraphysomonas, s__Paraphysomonas sp. SIOpierPara1
+ASV1741,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Peridiniales, f__Peridiniaceae, g__Scrippsiella, s__Scrippsiella masanensis
+ASV1745,d__Eukaryota, p__Xanthophyta, c__Xanthophyceae, o__Mischococcales, f__Pleurochloridaceae, g__Monodus, s__Monodus sp. 1 ME-2013
+ASV1748,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Lophodiniales, f__Lophodiniaceae, g__Biecheleriopsis, s__Biecheleriopsis adriatica
+ASV1749,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Prorocentrales, f__Prorocentraceae, g__Prorocentrum, s__Prorocentrum koreanum
+ASV1752,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Gonyaulacales, f__Ceratiaceae, g__Ceratium, s__Ceratium furcoides
+ASV1753,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Prorocentrales, f__Prorocentraceae, g__Prorocentrum, s__Prorocentrum cf. balticum
+ASV1755,d__Eukaryota, p__Bacillariophyta, c__Coscinodiscophyceae, o__Melosirales, f__Stephanopyxidaceae, g__Stephanopyxis, s__Stephanopyxis turris
+ASV1759,d__Eukaryota, p__Haptophyta, c__norank, o__Prymnesiales, f__Chrysochromulinaceae, g__Chrysochromulina, s__Chrysochromulina parva
+ASV1762,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Suessiales, f__Symbiodiniaceae, g__Symbiodinium, s__uncultured Symbiodinium
+ASV1763,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Peridiniales, f__Peridiniaceae, g__Peridinium, s__Peridinium gatunense
+ASV1768,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Peridiniales, f__Peridiniaceae, g__Peridinium, s__Peridinium gatunense
+ASV1769,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Gonyaulacales, f__Amphidomataceae, g__Azadinium, s__Azadinium cf. spinosum
+ASV1773,d__Eukaryota, p__Haptophyta, c__Bolidophyceae, o__Parmales, f__Triparmaceae, g__Bolidomonas, s__Bolidomonas sp.
+ASV1774,d__Eukaryota, p__Cryptophyta, c__Cryptophyceae, o__Pyrenomonadales, f__Pyrenomonadaceae, g__Rhodomonas, s__Rhodomonas minuta
+ASV1777,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Peridiniales, f__Peridiniaceae, g__Peridinium, s__Peridinium gatunense
+ASV1778,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Peridiniales, f__Heterocapsaceae, g__Heterocapsa, s__Heterocapsa pygmaea
+ASV1779,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Prorocentrales, f__Prorocentraceae, g__Prorocentrum, s__Prorocentrum koreanum
+ASV1781,d__Eukaryota, p__Haptophyta, c__norank, o__Prymnesiales, f__Chrysochromulinaceae, g__Chrysochromulina, s__Chrysochromulina parva
+ASV1783,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Suessiales, f__Biecheleriaceae, g__Biecheleria, s__Biecheleria brevisulcata
+ASV1788,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Suessiales, f__Biecheleriaceae, g__Biecheleria, s__Biecheleria brevisulcata
+ASV1789,d__Eukaryota, p__Cryptophyta, c__Cryptophyceae, o__Kathablepharidacea, f__Katablepharidaceae, g__Hatena, s__Hatena arenicola
+ASV1792,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Peridiniales, f__Peridiniaceae, g__Peridinium, s__Peridinium gatunense
+ASV1796,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Peridiniales, f__Peridiniaceae, g__Peridinium, s__Peridinium gatunense
+ASV1804,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Peridiniales, f__Peridiniaceae, g__Peridinium, s__Peridinium gatunense
+ASV1806,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Peridiniales, f__Peridiniaceae, g__Scrippsiella, s__Scrippsiella masanensis
+ASV1807,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Peridiniales, f__Peridiniaceae, g__Scrippsiella, s__Scrippsiella masanensis
+ASV1812,d__Eukaryota, p__Chrysophyta, c__Chrysophyceae, o__Chromulinales, f__Chromulinaceae, g__Ochromonas, s__Ochromonas tuberculata
+ASV1814,d__Eukaryota, p__Chrysophyta, c__Chrysophyceae, o__Chromulinales, f__Paraphysomonadaceae, g__Paraphysomonas, s__Paraphysomonas segmenta
+ASV1817,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Peridiniales, f__Peridiniaceae, g__Peridinium, s__Peridinium gatunense
+ASV1818,d__Eukaryota, p__Cryptophyta, c__Cryptophyceae, o__Kathablepharidacea, f__Katablepharidaceae, g__Hatena, s__Hatena arenicola
+ASV1819,d__Eukaryota, p__Chlorophyta, c__Chlorophyceae, o__Sphaeropleales, f__Scenedesmaceae, g__Coelastrum, s__Coelastrum microporum
+ASV1825,d__Eukaryota, p__Cryptophyta, c__Cryptophyceae, o__Cyathomonadacea, f__Goniomonadaceae, g__Goniomonas, s__Goniomonas sp. HFCC157
+ASV1827,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Gonyaulacales, f__Ceratiaceae, g__Ceratium, s__Ceratium furcoides
+ASV1830,d__Eukaryota, p__Chlorophyta, c__Chlorophyceae, o__Sphaeropleales, f__Scenedesmaceae, g__Neodesmus, s__Neodesmus sp. LIPBS
+ASV1831,d__Eukaryota, p__Chlorophyta, c__Chlorophyceae, o__Sphaeropleales, f__Schizochlamydaceae, g__Planktosphaeria, s__Planktosphaeria sp. FACHB-2251
+ASV1840,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Peridiniales, f__Peridiniaceae, g__Peridinium, s__Peridinium gatunense
+ASV1852,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Peridiniales, f__Peridiniaceae, g__Scrippsiella, s__Scrippsiella masanensis
+ASV1853,d__Eukaryota, p__Dictyochophyta, c__Dictyochophyceae, o__Pedinellales, f__norank, g__Pseudopedinella, s__Pseudopedinella sp. HSY-2011
+ASV1857,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Peridiniales, f__Peridiniaceae, g__Peridinium, s__Peridinium gatunense
+ASV1867,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Lophodiniales, f__Lophodiniaceae, g__Biecheleriopsis, s__Biecheleriopsis adriatica
+ASV1870,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Peridiniales, f__Peridiniaceae, g__Peridinium, s__Peridinium gatunense
+ASV1875,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Peridiniales, f__Peridiniaceae, g__Peridinium, s__Peridinium gatunense
+ASV1884,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Thoracosphaerales, f__Thoracosphaeraceae, g__Stoeckeria, s__Stoeckeria sp. SSSC09
+ASV1886,d__Eukaryota, p__Chrysophyta, c__Chrysophyceae, o__norank, f__Apoikiaceae, g__Apoikia, s__Apoikia lindahlii
+ASV1889,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Peridiniales, f__Peridiniaceae, g__Peridinium, s__Peridinium gatunense
+ASV1907,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Peridiniales, f__Peridiniaceae, g__Peridinium, s__Peridinium gatunense
+ASV1912,d__Eukaryota, p__Chrysophyta, c__Chrysophyceae, o__Chromulinales, f__Paraphysomonadaceae, g__Spiniferomonas, s__Spiniferomonas trioralis
+ASV1914,d__Eukaryota, p__Cryptophyta, c__Cryptophyceae, o__Cryptomonadales, f__Cryptomonadaceae, g__Cryptomonas, s__uncultured Cryptomonas
+ASV1919,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Thoracosphaerales, f__Thoracosphaeraceae, g__Apocalathium, s__Apocalathium aciculiferum
+ASV1920,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Peridiniales, f__Peridiniaceae, g__Peridinium, s__Peridinium gatunense
+ASV1923,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Peridiniales, f__Peridiniaceae, g__Peridinium, s__Peridinium gatunense
+ASV1930,d__Eukaryota, p__Chlorophyta, c__Trebouxiophyceae, o__norank, f__norank, g__Botryococcus, s__Botryococcus braunii
+ASV1934,d__Eukaryota, p__Chlorophyta, c__Trebouxiophyceae, o__norank, f__norank, g__Choricystis, s__Choricystis parasitica
+ASV1936,d__Eukaryota, p__Chrysophyta, c__Chrysophyceae, o__Chromulinales, f__Dinobryaceae, g__Dinobryon, s__Dinobryon pediforme
+ASV1937,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Peridiniales, f__Peridiniaceae, g__Scrippsiella, s__Scrippsiella masanensis
+ASV1939,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Peridiniales, f__Peridiniaceae, g__Peridinium, s__Peridinium gatunense
+ASV1945,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Peridiniales, f__Heterocapsaceae, g__Heterocapsa, s__Heterocapsa pygmaea
+ASV1958,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Peridiniales, f__Peridiniaceae, g__Peridinium, s__Peridinium gatunense
+ASV1962,d__Eukaryota, p__Cryptophyta, c__Cryptophyceae, o__Cyathomonadacea, f__Goniomonadaceae, g__Goniomonas, s__Goniomonas sp. HFCC157
+ASV1963,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Gonyaulacales, f__Ceratiaceae, g__Ceratium, s__Ceratium furcoides
+ASV1969,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Peridiniales, f__Peridiniaceae, g__Peridinium, s__Peridinium gatunense
+ASV1973,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Suessiales, f__Symbiodiniaceae, g__Symbiodinium, s__uncultured Symbiodinium
+ASV1974,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Gonyaulacales, f__Ceratiaceae, g__Ceratium, s__Ceratium furcoides
+ASV1975,d__Eukaryota, p__Chrysophyta, c__Chrysophyceae, o__Chromulinales, f__Paraphysomonadaceae, g__Paraphysomonas, s__Paraphysomonas sp. 31 JMS-2012
+ASV1993,d__Eukaryota, p__Chlorophyta, c__Chlorophyceae, o__Chlamydomonadales, f__Chlamydomonadaceae, g__Chlamydomonas, s__Chlamydomonas isabeliensis
+ASV2003,d__Eukaryota, p__Chlorophyta, c__Chlorophyceae, o__Sphaeropleales, f__Mychonastaceae, g__Mychonastes, s__Mychonastes sp. YHL/S/PLANKTON10
+ASV2005,d__Eukaryota, p__Chlorophyta, c__Chlorophyceae, o__Sphaeropleales, f__Mychonastaceae, g__Mychonastes, s__Mychonastes sp. YHL/S/PLANKTON10
+ASV2014,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Peridiniales, f__Peridiniopsidaceae, g__Peridiniopsis, s__Peridiniopsis polonicum
+ASV2114,d__Eukaryota, p__Rhodophyta, c__Bangiophyceae, o__Bangiales, f__Bangiaceae, g__Pyropia, s__Pyropia sp. 2 LEY-2017
+ASV2167,d__Eukaryota, p__Dinophyta, c__Dinophyceae, o__Gonyaulacales, f__Ceratiaceae, g__Ceratium, s__Ceratium furcoides
+ASV2187,d__Eukaryota, p__Chlorophyta, c__Chlorophyceae, o__Sphaeropleales, f__Mychonastaceae, g__Mychonastes, s__Mychonastes sp. YHL/S/PLANKTON10
